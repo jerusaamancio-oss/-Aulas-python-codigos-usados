@@ -1,0 +1,12 @@
+
+#------------------------------------------------aula 1------------------------------------------------#
+
+# receber valores
+# receber valore de forma correta 
+
+name = input("Digite seu name? : ")
+print(f"Ola seja bem vindo seu nome e {name}")
+
+energy = float(input("Qual o valor da sua conta de energia? : "))
+water = float(input("Qual o valor da sua conta de agua? :"))
+print(energy + water)
